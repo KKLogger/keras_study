@@ -1,6 +1,0 @@
-##NESOY Ignore File ##
-*.jpg
-ml-100k
-.ipynb_checkpoints
-clothes_dataset
-archive
